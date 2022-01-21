@@ -127,11 +127,6 @@ df1 = spark.read \
 
 ##### And you are good to go!!!
 
-##### To Summarise :
-
-
-
-
 
 
 
